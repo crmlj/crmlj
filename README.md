@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, sou Carlos Lima Junior 👋
 
-<!--
-**crmlj/crmlj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Aqui partilho os meus projetos em Python.
 
-Here are some ideas to get you started:
+## Projeto em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Equações quadráticas em Python](https://github.com/crmlj/equacao-quadratica-python)
+
+Resolução de equações quadráticas com raízes reais e complexas e visualização gráfica em Python.
+
+## Neste perfil
+
+- Programação em Python
+- Matemática aplicada à programação
+- Visualização gráfica de resultados
+
+Veja os meus repositórios em [github.com/crmlj]

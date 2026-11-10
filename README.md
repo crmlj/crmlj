@@ -14,4 +14,4 @@ Resolução de equações quadráticas com raízes reais e complexas e visualiza
 - Matemática aplicada à programação
 - Visualização gráfica de resultados
 
-Veja os meus repositórios em [github.com/crmlj]
+Veja os meus repositórios em [github.com/crmlj](https://github.com/crmlj?tab=repositories).

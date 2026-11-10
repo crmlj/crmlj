@@ -1,17 +1,17 @@
-# Olá, sou Carlos Lima Junior 👋
+# Hi, I'm Carlos Lima Junior 👋
 
-Bem-vindo ao meu perfil! Aqui partilho os meus projetos em Python.
+Welcome to my profile! Here I share my Python projects.
 
-## Projeto em destaque
+## Featured project
 
-### [Equações quadráticas em Python](https://github.com/crmlj/equacao-quadratica-python)
+### [Quadratic Equations in Python](https://github.com/crmlj/equacao-quadratica-python)
 
-Resolução de equações quadráticas com raízes reais e complexas e visualização gráfica em Python.
+Solving quadratic equations with real and complex roots and visualizing the results in Python.
 
-## Neste perfil
+## What you'll find here
 
-- Programação em Python
-- Matemática aplicada à programação
-- Visualização gráfica de resultados
+- Python programming
+- Mathematics applied to programming
+- Graphical visualization of results
 
-Veja os meus repositórios em [github.com/crmlj](https://github.com/crmlj?tab=repositories).
+Explore my repositories at [github.com/crmlj](https://github.com/crmlj?tab=repositories).

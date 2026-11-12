@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Lima Junior
 
-I'm a chemical engineer pursuing an MSc in Computer Engineering at the University of Évora. My background includes scientific research, laboratory work, and industrial experience. I'm building on that experience through data science and AI, using Python, pandas, SQL, and statistical analysis to explore data and explain what I find. I'm also developing my skills in machine learning and Power BI.
+Chemical Engineer with an M.Sc. in Chemistry, now pursuing an M.Sc. in Informatics Engineering at the University of Évora. Experienced in experimental data analysis, KPI monitoring and process improvement. Developing Python, pandas, SQL, Power BI and machine learning skills for Data Analyst / Junior Data Scientist roles.
 
 ## Projects
 

@@ -1,0 +1,38 @@
+PRÊMIO NOBEL | ANÁLISE EXPLORATÓRIA
+Carlos Lima Junior
+
+Objetivo
+Comparar a proporção de mulheres e homens premiados por década e
+categoria e identificar padrões na base do projeto DataCamp.
+
+Dados e método
+A base contém 1.000 registros de 1901 a 2023. Há 905 registros marcados
+como Male, 65 como Female e 30 com sex ausente. Cada proporção é a
+média de uma coluna booleana dentro do grupo década × categoria.
+O denominador inclui todos os registros do grupo. Nos mapas, a mesma
+escala de 0% a 100% permite comparar os dois grupos diretamente.
+
+Resultados
+• O país de nascimento mais frequente foi Estados Unidos (291 registros).
+• Literatura na década de 2020 teve a maior proporção feminina, 50%
+  (duas mulheres em quatro registros, com dados até 2023).
+• A proporção masculina chegou a 100% em 31 grupos. Química na década
+  de 1900 é o primeiro grupo empatado na ordem do DataFrame.
+• Marie Curie foi a primeira mulher premiada, em Física, em 1903.
+• Em 1901 há seis registros masculinos. Jacobus Henricus van 't Hoff
+  (Química) é o primeiro na ordem da base.
+• Seis nomes aparecem mais de uma vez, incluindo Marie Curie e o
+  Comitê Internacional da Cruz Vermelha.
+
+Revisão do código
+O script salvo executou até o fim. O groupby e as médias booleanas
+estão corretos para o denominador escolhido. Nos comentários junto a
+idxmax(), use “retorna o índice da linha”. A função escolhe a primeira
+ocorrência em caso de empate. Há um print(top_gender) duplicado e a
+versão salva ainda contém a seção sobre nascidos nos EUA. Se retirar
+essa seção, mantenha a criação de decade antes do groupby.
+Para os mapas, execute as células # %% separadamente no VS Code.
+
+Fonte
+DataCamp, Visualizing the History of Nobel Prize Winners.
+https://www.datacamp.com/projects/1888

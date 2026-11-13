@@ -6,6 +6,8 @@ Manhattan apresenta o maior desvio-padrão, com **230,29 pontos**. O borough tem
 
 ![Boxplot das pontuações do SAT por borough, com uma cor e um desvio-padrão por grupo](boxplot_sat.png)
 
+O script também gera um gráfico de barras com a média de matemática por borough em três faixas: até 500, de 501 a 639 e a partir de 640 pontos. Staten Island não tem escolas na faixa intermédia neste conjunto de dados.
+
 ## Como executar
 
 Coloca uma cópia de `schools.csv` do DataLab do DataCamp na mesma pasta do script. Com Python 3.13, abre um terminal nessa pasta e executa os comandos abaixo.
